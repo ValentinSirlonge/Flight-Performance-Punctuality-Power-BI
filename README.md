@@ -1,6 +1,7 @@
 # Flight Performance and Punctuality of UK Airlines in 2024
 This project analyzes the punctuality of UK airlines in 2024 using official arrival and departure statistics. The goal is to uncover performance trends, identify delay patterns, and provide insights to improve passenger satisfaction and airline efficiency.
 
+![British Airways Plane](https://cabincrewhq.com/wp-content/uploads/2023/08/british-airways-airlines-facts-768x509.jpg)
 
 ## Project Overview
 - **Objective**: Evaluate the performance of UK airlines and airports based on flight punctuality and delays throughout 2024.
